@@ -1,0 +1,3 @@
+-- Se tuvo que separar el código en los tres ficheros email_*.js para evitar el mensaje de error:
+-- Warning: Accessing non-existent property 'sendMailDataLoaded' of module exports inside circular dependency
+-- (Use `node --trace-warnings ...` to show where the warning was created)
